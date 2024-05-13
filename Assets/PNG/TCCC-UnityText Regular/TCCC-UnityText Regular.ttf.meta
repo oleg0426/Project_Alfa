@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e5fe058bbe1d2f24ea31d3af1c78f0bd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TCCC-UnityText
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7fdda9fa4ebc79740a2e0a0f36cff84f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
